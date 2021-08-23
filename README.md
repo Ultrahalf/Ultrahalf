@@ -1,9 +1,12 @@
 <div align="center">
+	Visitor count<br>
+	<img src="https://profile-counter.glitch.me/Ultrahalf/count.svg" />
 	<h1>Hi there, I'm Althaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 # About me:
 	- 👯 I’m looking to contribute to FOSS
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ultrahalf&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
