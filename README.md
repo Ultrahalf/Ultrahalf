@@ -33,7 +33,7 @@ I have 7 months of professional work experience and 4 months of internship under
 ## Skills:
 
 I am proficient in a diverse range of technologies, including JavaScript, Node.js, TypeScript, HTML, CSS, React, JSX, SCSS, Tailwind, SQL, MongoDB, Git, and Linux. This broad skill set allows me to excel in both front-end and back-end development. I am adept at developing robust and scalable applications that meet the highest standards of quality and performance.
-
+<!--
 ## Continuous Learning
 
 I am passionate about staying up to date with emerging technologies and best practices. To achieve this, I actively engage with online communities, attend webinars and workshops, and undertake personal projects to expand my skill set and explore new technologies.
@@ -41,6 +41,8 @@ I am passionate about staying up to date with emerging technologies and best pra
 ## Interest in Functional Programming and Beyond
 
 While I have experience with a wide range of technologies, I am particularly interested in functional programming languages. I find their approach to programming fascinating and believe they offer unique perspectives and advantages. As part of my ongoing learning journey, I am currently exploring functional programming concepts and also languages such as C, C++, and Rust. I am excited to dive deeper into these languages and leverage their strengths in my future projects.
+
+-->
 
 ## Let's Connect!
 
