@@ -2,7 +2,7 @@
 
 ### About Me ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ultrahalf)
 
-Hey there! I'm a highly motivated and skilled Full Stack Developer with a passion for creating innovative solutions. I have a solid foundation in software development and a proven track record of delivering high-quality projects. I love what I do and enjoy tackling challenges head-on.
+Hey there! I'm a Full Stack Developer with a passion for software development and tech. I have a solid foundation in software development and a proven track record of delivering high-quality projects.
 
 ## Tools I Use
 
@@ -28,25 +28,13 @@ gantt
     Freelancing Web Developer(part time) :active, 2023-05-01, 2023-12-31
 ```
 
-I have 7 months of professional work experience and 4 months of internship under my belt. During this time, I have gained valuable hands-on experience in software development, honing my skills and learning from real-world projects. 
-
 ## Skills:
 
 I am proficient in a diverse range of technologies, including JavaScript, Node.js, TypeScript, HTML, CSS, React, JSX, SCSS, Tailwind, SQL, MongoDB, Git, and Linux. This broad skill set allows me to excel in both front-end and back-end development. I am adept at developing robust and scalable applications that meet the highest standards of quality and performance.
-<!--
-## Continuous Learning
-
-I am passionate about staying up to date with emerging technologies and best practices. To achieve this, I actively engage with online communities, attend webinars and workshops, and undertake personal projects to expand my skill set and explore new technologies.
-
-## Interest in Functional Programming and Beyond
-
-While I have experience with a wide range of technologies, I am particularly interested in functional programming languages. I find their approach to programming fascinating and believe they offer unique perspectives and advantages. As part of my ongoing learning journey, I am currently exploring functional programming concepts and also languages such as C, C++, and Rust. I am excited to dive deeper into these languages and leverage their strengths in my future projects.
-
--->
 
 ## Let's Connect!
 
-If you are looking for a dedicated Full Stack Developer with a passion for writing software systems, I would be thrilled to connect with you. Whether you have a project in mind, want to collaborate, or have any other opportunities to discuss, please feel free to reach out to me.
+If you are looking for a part-time/contract Full Stack Developer, I would be thrilled to connect with you. Whether you have a project in mind, want to collaborate, or have any other opportunities to discuss, please feel free to reach out to me.
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ultrahalf/) to explore potential collaborations. Additionally, you can hire me directly through [Upwork](https://www.upwork.com/freelancers/~019b90de03b64060eb) for freelance projects. 
 
