@@ -6,7 +6,7 @@ Hey there! I'm a Full Stack Developer based out of India.
 
 ## Tools I Use
 
-- **OS**: Linux (Arch Linux, by the way)
+- **OS**: Linux 
 - **Window Manager**: [Hyprland](https://hyprland.org/)
 - **Text Editor**: nvim (slightly customized with [Lazyvim](https://www.lazyvim.org/) or [Lunarvim](https://www.lunarvim.org/))
 - **Keyboard Layout**: [Miryoku](https://github.com/manna-harbour/miryoku)
