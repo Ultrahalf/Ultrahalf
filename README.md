@@ -26,6 +26,9 @@ gantt
 
     section Freelancing
     Freelancing Web Developer(part time) :active, 2023-05-01, 2023-12-31
+
+    section Professional Work
+    Cloud Associate Developer :active, 2023-07-19, 2024-07-19
 ```
 
 ## Skills:
