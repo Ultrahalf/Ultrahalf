@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=3000&pause=1000&color=517EFF&width=435&lines=Hi!+all;I'm+Althaf;A+full+stack+developer+based+out+of+India;who's+also+a+Linux+and+open+source+enthusiast;I+also+like+ergonomic+keyboards+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=3000&pause=1000&color=517EFF&width=435&lines=Hi!+all;I'm+Althaf;A+full+stack+developer;who's+also+a+Linux+and+open+source+enthusiast;I+also+like+ergonomic+keyboards+%3A)" alt="Typing SVG" /></a>
 
 ### About Me ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ultrahalf)
 
