@@ -2,7 +2,7 @@
 
 ### About Me ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ultrahalf)
 
-Hey there! I'm a Full Stack Developer based out of India.
+Hey there! I'm a Full Stack Developer.
 
 ## Tools I Use
 
